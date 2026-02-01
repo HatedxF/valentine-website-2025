@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Take my flowers!?",                                    // First interaction
+            text: " Take my flowers!? ",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "Fine, ILL ACCEPT YOUR FLOWERS BITCH ❤️"           // Secret hover message
